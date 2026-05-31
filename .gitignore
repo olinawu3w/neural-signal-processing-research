@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+.eggs/
+dist/
+build/
+venv/
+env/
+.venv/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*_checkpoint.ipynb
+.nbformat-cache/
+
+# Google Colab / Drive artefacts
+/content/
+*.drive/
+
+# Model checkpoints (large — share via Drive link in README instead)
+*.pth
+*.pt
+*.ckpt
+
+# Dataset files (large — see README for download instructions)
+*.npy
+*.mat
+*.h5
+*.hdf5
+
+# Training outputs / logs
+*.log
+*.csv
+outputs/
+runs/
+
+# System / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*.bak
+*.tmp

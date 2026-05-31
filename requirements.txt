@@ -1,0 +1,13 @@
+# Core deep learning
+torch>=2.0.0
+numpy>=1.24.0
+
+# Signal processing & statistics
+scipy>=1.10.0
+scikit-learn>=1.2.0
+
+# Visualisation
+matplotlib>=3.7.0
+
+# Progress bars
+tqdm>=4.65.0
